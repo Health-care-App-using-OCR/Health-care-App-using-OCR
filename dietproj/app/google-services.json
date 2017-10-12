@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "536368041257",
+    "firebase_url": "https://projdiet-a9b02.firebaseio.com",
+    "project_id": "projdiet-a9b02",
+    "storage_bucket": "projdiet-a9b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536368041257:android:62c690484ca33499",
+        "android_client_info": {
+          "package_name": "com.diet.mnagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536368041257-oi3lv8su2p42drajarp686jkmqtrtl48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKDn8p4zE8oHIpnosQCt74oIY2Bm6T40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
